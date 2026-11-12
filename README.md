@@ -90,10 +90,5 @@ How to Reproduce This Project
 Download the Online Retail II dataset from the UCI Machine Learning Repository
 Run the SQL scripts in 01_sql in order to recreate the cleaned RetailCleaned table
 Export RetailCleaned to CSV and run the notebook in 02_python to generate the segmented dataset
-Open the Power BI file in 03_powerbi and point it to the exported Excel file to refresh
+Open the Power BI file in 03_powerbi and point it to the exported Excel file to refresh.
 
-Screenshots/Demo
-
-Show what the Dashboard Look like.
-
-Example 
